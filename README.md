@@ -44,15 +44,19 @@ dan hasilnya pada Browser dibawah ini:
 ![image](https://user-images.githubusercontent.com/81431392/112721959-009dae00-8ec4-11eb-8b5e-2a7c2e5daeb6.png)
 
 5.	_blank : arti dari nilai atribut tersebut adalah untuk membuka link baru atau tab tautan  baru. Contoh gambar :
+
 ![image](https://user-images.githubusercontent.com/81431392/112721984-2fb41f80-8ec4-11eb-833b-3e93fd28e195.png)
 
     _self : arti dari nilai atribut tersebut adalah membuka dokumen yg di tautkan di jendela atau tab yg sama. Contoh gambar :
+ 
  ![image](https://user-images.githubusercontent.com/81431392/112721998-42c6ef80-8ec4-11eb-839f-453f62434ecb.png)
  
     _top : arti dari nilai atribut tersebut adalah membuka dokumen yg di tautkan diseluruh jendela. Contoh gambar :
+
 ![image](https://user-images.githubusercontent.com/81431392/112722014-56725600-8ec4-11eb-8a89-4b8ead1a6a29.png)
 
     _parent : arti dari nilai atribut tersebut adalah membuka dokumen yg ditautkan dalam bingkai induk. Contoh gambar :
+
 ![image](https://user-images.githubusercontent.com/81431392/112722034-6853f900-8ec4-11eb-89bd-1e8a29220d60.png)
 
 
