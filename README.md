@@ -41,6 +41,7 @@ dan hasilnya pada Browser dibawah ini:
  ![image](https://user-images.githubusercontent.com/81431392/112723776-7c502880-8ecd-11eb-8048-d012e2f47cb8.png)
 
    Dan contoh jika pake kedua atribut “Width dan Height” maka gambar akan tertarik rationya dengan gambar yg asli sebelumnya : 
+
 ![image](https://user-images.githubusercontent.com/81431392/112721959-009dae00-8ec4-11eb-8b5e-2a7c2e5daeb6.png)
 
 5.	_blank : arti dari nilai atribut tersebut adalah untuk membuka link baru atau tab tautan  baru. Contoh gambar :
