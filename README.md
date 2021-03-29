@@ -3,6 +3,8 @@
 <p>Kelas  :TI.19.B1 </p>
 <p>Nim    :311910218 </p> 
 <p>Dosen  :Agung Nugroho,S.Kom.,M.Kom </p>
+Jawaban tugas Pemograman Web!
+
 
 1.	ketika di validasi kalau ada penulisan pada tag yg salah pada html maka tidak akan mengenali dan elemen tersebut tidak muncul pada browser! contohnya kesalahan penulisan tag pada html berikut ini :
 maka muncul error Error Saw a start tag image pada saat Validasi.
